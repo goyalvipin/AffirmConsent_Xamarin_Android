@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="AffirmConsent\AffirmConsent.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="AffirmConsentService\packages.config" Line="1" Column="1" />
+      <File FileName="AffirmConsentService\Web.config" Line="1" Column="1" />
+      <File FileName="AffirmConsentService\Global.asax" Line="1" Column="1" />
+      <File FileName="AffirmConsentService\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="AffirmConsentService\Models\AffirmConsentContext.cs" Line="1" Column="1" />
+      <File FileName="AffirmConsentService\DataObjects\TodoItem.cs" Line="1" Column="1" />
+      <File FileName="AffirmConsentService\Controllers\TodoItemController.cs" Line="29" Column="10" />
+      <File FileName="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="1722" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" line="1713" column="28" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
